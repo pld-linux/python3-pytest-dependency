@@ -5,13 +5,13 @@
 Summary:	Manage dependencies of tests
 Summary(pl.UTF-8):	Zarządzanie zależnościami testów
 Name:		python3-pytest-dependency
-Version:	0.6.0
+Version:	0.6.1
 Release:	1
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-dependency/
-Source0:	https://files.pythonhosted.org/packages/source/p/pytest-dependency/pytest-dependency-%{version}.tar.gz
-# Source0-md5:	a4c76010afb7adaf07be18bb709bacd0
+Source0:	https://files.pythonhosted.org/packages/source/p/pytest-dependency/pytest_dependency-%{version}.tar.gz
+# Source0-md5:	25e2512d6c0bc9a1c6436c381b418858
 URL:		https://pypi.org/project/pytest-dependency/
 BuildRequires:	python3-modules >= 1:3.4
 BuildRequires:	python3-setuptools
